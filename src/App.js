@@ -1,8 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
 import CardList from './CardList';
-import SearchBox from './Searchbox';
+import SearchBox from './SearchBox';
 import React from 'react';
+
+ 
 
 class App extends React.Component{
 
